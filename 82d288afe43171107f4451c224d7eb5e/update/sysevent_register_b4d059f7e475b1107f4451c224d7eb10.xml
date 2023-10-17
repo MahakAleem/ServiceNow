@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>used to trigger an email</description>
+        <event_name>x_cdltd_loaner_req.pickUp</event_name>
+        <fired_by>Scheduled script execution : loaner item pick up</fired_by>
+        <queue/>
+        <suffix>pickUp</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 05:37:53</sys_created_on>
+        <sys_id>b4d059f7e475b1107f4451c224d7eb10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.pickUp</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">82d288afe43171107f4451c224d7eb5e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">82d288afe43171107f4451c224d7eb5e</sys_scope>
+        <sys_update_name>sysevent_register_b4d059f7e475b1107f4451c224d7eb10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 05:37:53</sys_updated_on>
+        <table>x_cdltd_loaner_req_loaner_request</table>
+    </sysevent_register>
+</record_update>
